@@ -11,7 +11,7 @@ Profile the raw data, document every quality issue, clean it using MySQL, and bu
 MySQL Workbench
 
 ## How to run
-run script 01 Part A, import the CSV with the wizard, run Part B, then scripts 02 to 05
+run script 01 Part A, import the CSV with the wizard, run Part B, then scripts 02 to 04
 
 **NB:** Run the scripts in order.
 
