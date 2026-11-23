@@ -10,6 +10,11 @@ Profile the raw data, document every quality issue, clean it using MySQL, and bu
 
 MySQL Workbench
 
+## How to run
+run script 01 Part A, import the CSV with the wizard, run Part B, then scripts 02 to 05
+
+**NB:** Run the scripts in order.
+
 ## Dataset
 
 | File | Description |
@@ -28,7 +33,6 @@ MySQL Workbench
 | `03_cleaning.sql` | Apply the fixes |
 | `04_validation.sql` | Verify counts, NULLs and ranges |
 
-**NB:** Run the scripts in order. Import the CSV with the Table Data Import Wizard between Part A and Part B of script 01.
 
 ## Issues found and fixes
 
